@@ -1,5 +1,12 @@
+ 
+https://en.wikipedia.org/wiki/DebWRT 
 
-This is the DebWrt build environment.
+See linked page above for more info, project is currently inactive
+
+ --- --- --- 
+
+
+ This is the DebWrt build environment.
 It is heavily based on OpenWrt's build environment
 and heavily uses Emdebian and Debootstrap for all Debian related actions.
 
@@ -9,4 +16,7 @@ for many architectures.
 OpenWrt has great Linux kernel support for many embedded devices.
 
 Bringing these two strenghts together opens a whole new world of possibilities.
-..
+.. 
+
+
+  
